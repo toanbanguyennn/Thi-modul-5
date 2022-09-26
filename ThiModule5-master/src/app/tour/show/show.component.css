@@ -1,0 +1,19 @@
+#display {
+
+  border: 1px solid;
+  border-collapse: collapse;
+
+}
+
+#display tr, #display th, #display td {
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+h2 {
+
+}
+
+form {
+
+}
